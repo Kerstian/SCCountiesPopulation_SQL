@@ -12,4 +12,6 @@ In this project, I used data provided by the United States Census Bureau to anal
 <p align="center"> 
 Creating table in PostreSQL for data pulled from Census Bureau
 <br/>
-<img src=https://i.imgur.com/lE9JAqR.jpeg/ height="80%" width="80%">
+<img src=https://imgur.com/IgD6SaX.jpeg/ height="50%" width="50%">
+
+
