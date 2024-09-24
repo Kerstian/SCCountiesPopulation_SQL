@@ -14,4 +14,12 @@ Creating table in PostreSQL for data pulled from Census Bureau
 <br/>
 <img src=https://imgur.com/IgD6SaX.jpeg/ height="50%" width="50%">
 
+<p align="center"> 
+Imported formatted CSV file with data from United States Census Bureau
+<img src=https://imgur.com/3wLqT7o.jpeg/ height="50%" width="50%">
+<br/>
 
+<p align="center"> 
+Proof of data being imported into table
+<br/>
+<img src=https://imgur.com/d4iJntm.jpeg/ height="50%" width="50%">
