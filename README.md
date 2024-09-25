@@ -23,3 +23,11 @@ Imported formatted CSV file with data from United States Census Bureau
 Proof of data being imported into table
 <br/>
 <img src=https://imgur.com/d4iJntm.jpeg/ height="50%" width="50%">
+
+
+1. What was the total population of South Carolina in 2020, 2021, 2022, and 2023?
+*Population in 2020 = 5,132,151 
+*Population in 2021 = 5,193,848
+<br>
+<img src=https://imgur.com/Zb55AdE.jpeg/  height="30%" width="30%"> <img src=https://imgur.com/PIB7rfT.jpeg/  height="30%" width="30%">
+   
