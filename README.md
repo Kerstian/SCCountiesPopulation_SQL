@@ -25,7 +25,7 @@ Proof of data being imported into table
 <img src=https://imgur.com/d4iJntm.jpeg/ height="50%" width="50%">
 
 
-1. What was the total population of South Carolina in 2020, 2021, 2022, and 2023?</br>
+1. What was the total population of South Carolina in 2020, 2021, 2022, and 2023? Using the SUM() function I was able to determine the total population in SC for 2020, 2021, 2022, & 2023 </br>
 -Population in 2020 = 5,132,151 </br>
 -Population in 2021 = 5,193,848 </br>
 -Population in 2022 = 5,282,955 </br>
@@ -33,4 +33,14 @@ Proof of data being imported into table
 </br>
 <p align="center"> 
 <img src=https://imgur.com/ZzvA5GS.jpeg/  height="50%" width="50%"> 
-   
+
+2. What was the average population per county in South Carolina in 2020, 2021, 2022, and 2023? I have rounded each to the nearest whole number.</br>
+-Average county population in 2020 = 111,569 </br>
+-Average county population in 2021 = 112,910 </br>
+-Average county population in 2022 = 114,847 </br>
+-Average county population in 2023 = 116,816 </br>
+<br>
+<p align="center"> 
+<img src=https://imgur.com/Keutk43.jpeg/  height="50%" width="50%"> 
+
+https://imgur.com/Keutk43
