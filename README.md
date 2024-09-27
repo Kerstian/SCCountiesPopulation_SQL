@@ -43,4 +43,3 @@ Proof of data being imported into table
 <p align="center"> 
 <img src=https://imgur.com/Keutk43.jpeg/  height="50%" width="50%"> 
 
-https://imgur.com/Keutk43
