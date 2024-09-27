@@ -7,7 +7,6 @@ In this project, I used data provided by the United States Census Bureau to anal
     3. Which 5 counties experienced the most growth over the 4 years?
     4. Which 5 counties experience the least growth over the 4 years?
     5. What are the top 5 most populous counties in South Carolina?
-    6. What is the total population by region?
 
 <p align="center"> 
 Creating table in PostreSQL for data pulled from Census Bureau
