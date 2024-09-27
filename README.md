@@ -43,7 +43,7 @@ Proof of data being imported into table
 <p align="center"> 
 <img src=https://imgur.com/Keutk43.jpeg/  height="50%" width="50%"> 
 
-3. Which 5 counties experienced the most growth over the 4 years?<br> Based on the data provided the 5 counties that experienced the most growth from 2020 to 2023 is Horry, Greenville, Spartanburg, Berkeley, and Lexington.
+3. Which 5 counties experienced the most growth over the 4 years?<br> Based on the data provided the 5 counties that experienced the most amount of growth from 2020 to 2023 is Horry, Greenville, Spartanburg, Berkeley, and Lexington.
 - Horry County = 43,713 </br>
 - Greenville County = 30,787 </br>
 - Spartanburg County = 27,319 </br>
@@ -52,6 +52,33 @@ Proof of data being imported into table
 <br>
 <p align="center"> 
 <img src=https://imgur.com/jpXHgtK.jpeg/  height="50%" width="50%"> 
+
+4. Which 5 counties experience the least growth over the 4 years? <br> Based on the data provided the 5 counties that experienced the least amount of growth from 2020 to 2023 is Sumter, Orangeburg, Williamsburg, Marlboro, and Dillion.
+- Sumter County = -1,311 </br>
+- Orangeburg County = -1,134 </br>
+- Williamsburg County = -1,023 </br>
+- Marlboro County = -786 </br>
+- Dillion County = -579 </br>
+<br>
+<p align="center"> 
+<img src=https://imgur.com/t0fdV5T.jpeg/  height="50%" width="50%"> 
+
+5. What are the top 5 most populous counties in South Carolina? Based on the data provided the top 5 most populous counties in South Carolina is Greenville, Richland, Charleston, Horry, and Spartanburg.
+- Greenville County = 558,036
+- Richaland County = 425,138
+- Charleston County = 424,367
+- Horry County = 397,478
+- Spartanburg County = 356,698
+<br>
+<p align="center"> 
+<img src=https://imgur.com/LPD0aMU.jpeg/  height="50%" width="50%"> 
+
+
+   
+
+
+
+
 
 
 
